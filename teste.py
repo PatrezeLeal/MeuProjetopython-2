@@ -1,8 +1,10 @@
 print("Aló Mundo")
 print("Linha 2")
 print("Patreze")
-print("quarta linha")
+print("Quarta linha")
+print("Nova linha")
 
-valor=10
-if valor <= 10:
-   print("Teste")
+
+ valor=10
+ if valor <= 10:
+    print("Teste")
